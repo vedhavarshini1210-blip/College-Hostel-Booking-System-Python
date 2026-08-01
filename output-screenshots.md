@@ -1,5 +1,6 @@
 option 1. View Available Room
 <img width="557" height="317" alt="image" src="https://github.com/user-attachments/assets/8b31b041-467e-489a-a161-4f82247ebb8d" />
+
 option 2 (Book a Room) 
 <img width="545" height="177" alt="image" src="https://github.com/user-attachments/assets/a5c8b9ee-03f1-4bb7-adc1-2e3caf1abf81" />
 Option 3 Cancelling room
