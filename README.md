@@ -1,5 +1,12 @@
 # College Hostel Booking System
 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Console App](https://img.shields.io/badge/Type-Console%20Application-green)
+![Data Structures](https://img.shields.io/badge/Data-Structures-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Project-black?logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Overview
 
 The **College Hostel Booking System** is a Python-based console application developed to simplify hostel room allocation and booking management. It provides an organized and user-friendly solution for managing hostel accommodations within educational institutions.
